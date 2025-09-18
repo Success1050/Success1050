@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Success Ekwunife</h1>
-<h3 align="center">A passionate frontend Web developer from Nigeria. Still exploring the world of python</h3>
+<h3 align="center">Experienced software engineer with 5+ years of expertise in developing web and mobile applications, and implementing AI-driven automation workflows using n8n.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=success1050&label=Profile%20views&color=0e75b6&style=flat" alt="success1050" /> </p>
 
