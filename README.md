@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for opportunites and new role in software development/Ai automation
 
-- 👨‍💻 All of my projects are available at [https:/www.emmanuelsuccess.com/](https:/www.emmanuelsuccess.com/)
+- 👨‍💻 All of my projects are available at [https://emmanuelsuccess.vercel.app/](https://emmanuelsuccess.vercel.app/)
 
 - 💬 Ask me about **react, nextjs, tailwind, wordpress, python, Django, Ai automation with N8N, mobile app development**
 
